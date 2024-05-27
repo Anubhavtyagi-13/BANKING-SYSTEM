@@ -1,0 +1,1 @@
+Banking system project in C++ using OOP: Classes like Account, Transaction, and Bank manage operations. Encapsulation ensures data security. Inheritance for account types. Polymorphism handles transactions. Error handling ensures robustness. User-friendly interface for easy interaction.
